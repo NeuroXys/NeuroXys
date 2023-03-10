@@ -10,5 +10,5 @@
 </p>
 
 <p align="center">
-<img src="http://steam.mmosvc.com/76561198067727912/v1.png"/>
+<img src="http://www.steamsignature.com/profile/english//76561198067727912.png"/>
 </p>
