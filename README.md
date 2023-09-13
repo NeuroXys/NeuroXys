@@ -1,7 +1,7 @@
 # PROFILE
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello!+its+a+me+NeuroXss;This+is+my+profile!;meow :/&font=Fira%20Code&center=true&color=24F753&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello!+its+me+NeuroXys;This+is+my+profile!;meow :/&font=Fira%20Code&center=true&color=24F753&width=380&height=50&duration=4000&pause=1000">
 </p>
 
 
