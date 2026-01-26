@@ -1,7 +1,7 @@
 # PROFILE
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello!+its+me+NeuroXys;This+is+my+profile!;meow :/&font=Fira%20Code&center=true&color=24F753&width=380&height=50&duration=4000&pause=1000">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+profile!" alt="Typing SVG" /></a>
 </p>
 
 
